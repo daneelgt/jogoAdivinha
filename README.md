@@ -50,6 +50,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
   Saída: Mensagens personalizadas indicando vitória, quase acerto ou erro por teimosia.
 
-⭐ Se gostou do projeto, sinta-se à vontade para dar um fork ou sugerir melhorias!
 
-Desenvolvido por daneelgt. ```
+⭐ ```Se gostou do projeto, sinta-se à vontade para dar um fork ou sugerir melhorias!```
+
+```Desenvolvido por daneelgt. ```
