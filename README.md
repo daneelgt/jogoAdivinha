@@ -36,10 +36,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
 2. **Acesse o diretório:**
     ```bash
     cd jogoAdivinha
-3. **Compile o arquivo principal:**
-    ```bash
-    javac AdivinhaONumero.java
-4. **Inicie o jogo:**
+3. **Inicie o jogo:**
    ```bash
    java AdivinhaONumero
 
